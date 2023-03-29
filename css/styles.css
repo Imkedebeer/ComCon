@@ -2,23 +2,26 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&display=swap');
 
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Lao:wght@500&display=swap');
+
 /* Changing the main font and background colour */
 
 body {
 	font-family: Raleway, sans-serif;
-	background-color: #fffcf8;
+	background-color: #FAEAB9;
 }
 
 /* Changing the background colour for the header */
 
 header {
-	background-color: #000060;
+	background-color: #D4610E;
 }
 
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #fff0e0;
+	background-color: #d4610e;
 }
 
 /* Effect on social media buttons */
@@ -32,4 +35,9 @@ footer a:hover {
 #navbar-corporate a.active {
 	color: #800000;
 	font-weight: bold;
+}
+
+.bigtitle {
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color: #D4610E	
 }
