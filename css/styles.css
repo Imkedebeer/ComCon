@@ -7,20 +7,20 @@
 
 body {
 	font-family: Raleway, sans-serif;
-	background-color: #FAEAB9;
+	background-color: #FCF6E3;
 }
 
 /* Changing the background colour for the header */
 
 header {
-	background-color: #D4610E;
+	background-color: #FCF6E3;
 	
 }
 
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #FAEAB9;
+	background-color: #FCF6E3;
 }
 
 /* Effect on social media buttons */
@@ -39,12 +39,12 @@ footer a:hover {
 
 .bigtitle {
 	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
-	color: #FAEAB9;
+	color: #FCF6E3;
 	font-size: 20px; 
 }
 
 .navbartext {
-    font-family: 'Sofia Sans Condensed', sans-serif;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	color: #D4610E;
-	font-size: 20px;	
+	font-size: 15px;	
 }
