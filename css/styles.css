@@ -1,9 +1,7 @@
 /* Importing a Google Font */
-
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&display=swap');
-
-
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Lao:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Lao:wght@500&family=Sofia+Sans+Condensed:ital,wght@0,400;0,600;1,400;1,600&display=swap');
 
 /* Changing the main font and background colour */
 
@@ -22,7 +20,7 @@ header {
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #d4610e;
+	background-color: #FAEAB9;
 }
 
 /* Effect on social media buttons */
@@ -38,7 +36,14 @@ footer a:hover {
 	font-weight: bold;
 }
 
+
 .bigtitle {
 	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 	color: #D4610E	
+}
+
+.navbartext {
+    font-family: 'Sofia Sans Condensed', sans-serif;
+	color: #D4610E;
+	font-size: 20px;	
 }
