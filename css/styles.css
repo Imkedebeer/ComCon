@@ -43,7 +43,7 @@ footer a:hover {
 .bigtitle {
 	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 	color: #FCF6E3;
-	font-size: calc(10px + 2vw); 
+	font-size: calc(10px + 1vw); 
 }
 
 .navbartext {
@@ -67,4 +67,30 @@ footer a:hover {
 .containerpolaroid {
 	text-align: center;
   padding: 10px 20px;
+}
+
+.marginside {
+	margin-left: auto;
+	margin-right: auto
+}
+
+.text-expand {
+  text-indent: 50px;
+  text-align: justify;
+}
+
+.button {
+    background-color: white;
+	color: #d4610e;
+    border:2px solid #d4610e;
+	border-color: #d4610e;
+	font-size: 16px;
+	padding: 12px 28px;
+	border-radius: 8px;	
+	transition-duration: 0.4s;
+}
+
+.button:hover {
+	background-color: #d4610e;
+	color: white;
 }
