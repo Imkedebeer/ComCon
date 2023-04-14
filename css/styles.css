@@ -94,3 +94,20 @@ footer a:hover {
 	background-color: #d4610e;
 	color: white;
 }
+
+#customers {
+  font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+  border-collapse: collapse;
+  border:2px solid #d4610e;
+  font-size: 14px;
+  text-align: left;
+  width: 80%;
+}
+
+#customers td, #customers th {
+  border:2px solid #d4610e;
+  padding: 12px;
+}
+
+#customers tr:hover {background-color: #d4610e;
+                     color: white;}
